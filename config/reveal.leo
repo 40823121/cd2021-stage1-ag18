@@ -264,7 +264,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210318141415.1">&lt;section&gt;
     &lt;h1&gt;第一次模擬
-&lt;/h1&gt;&lt;p&gt;
+&lt;/h1&gt;&lt;p&gt;原本將球放在架子上讓它自然滾下，會被擋住，因此我們將球往上提高排除障礙。
  &lt;/p&gt;
  &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/isWyfl8Nv70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
