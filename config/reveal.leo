@@ -200,7 +200,7 @@ vertical: body pane on the botton</t>
     &lt;h1&gt;動機&lt;/h1&gt;
     &lt;p&gt;我們這組兩個人都有在打排球，而每次想要練習殺球的時候都必須找另一個人才能練習，所以我們想設計一個東西是一個人就可以練習扣球的機器
 
-繪製出機器主體(骨架和球軌的部分)
+
  &lt;/p&gt;
    
 &lt;/section&gt;
