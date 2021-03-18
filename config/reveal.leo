@@ -19,6 +19,7 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh>
+<v t="leo.20210318134922.1"><vh>newHeadline</vh>
 <v t="leo.20210318121450.1"><vh>newHeadline</vh>
 <v t="leo.20210318121817.1"><vh>newHeadline</vh>
 <v t="leo.20210318122017.1"><vh>newHeadline</vh>
@@ -33,6 +34,9 @@
 </v>
 </v>
 </v>
+</v>
+<v t="leo.20210318134844.1"><vh>2</vh></v>
+<v t="leo.20210318134844.2"><vh>3</vh></v>
 </v>
 </v>
 </v>
@@ -234,5 +238,17 @@ vertical: body pane on the botton</t>
 &lt;/h1&gt;
  &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rRnF_fOaT9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210318134844.1"></t>
+<t tx="leo.20210318134844.2"></t>
+<t tx="leo.20210318134922.1">&lt;section&gt;
+    &lt;h1&gt;進度規劃&lt;/h1&gt;
+    &lt;p&gt;討論題目與繪製零件圖
+ &lt;/p&gt;
+    &lt;p&gt;coppeliasim模擬、問題排解&lt;/p&gt;
+&lt;/section&gt;
+
+
+
+</t>
 </tnodes>
 </leo_file>
