@@ -27,8 +27,10 @@
 <v t="leo.20210318122152.1"><vh>newHeadline</vh>
 <v t="leo.20210318140344.1"><vh>newHeadline</vh>
 <v t="leo.20210318140452.1"><vh>newHeadline</vh>
+<v t="leo.20210318141415.1"><vh>newHeadline</vh>
 <v t="leo.20210318122541.1"><vh>newHeadline</vh>
 <v t="leo.20210318122321.1"><vh>newHeadline</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -236,7 +238,7 @@ vertical: body pane on the botton</t>
     &lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318122541.1">&lt;section&gt;
-    &lt;h1&gt;CoppeliaSim測試
+    &lt;h1&gt;第二次模擬
 &lt;/h1&gt;
  &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rRnF_fOaT9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
@@ -259,6 +261,12 @@ vertical: body pane on the botton</t>
     &lt;h1&gt;零件組合
 &lt;/h1&gt;
  &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/r0Ao89PoBuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318141415.1">&lt;section&gt;
+    &lt;h1&gt;第一次模擬
+&lt;/h1&gt;&lt;p&gt;
+ &lt;/p&gt;
+ &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/isWyfl8Nv70" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
