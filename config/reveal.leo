@@ -18,7 +18,21 @@
 <v t="leo.20200818165413.1"><vh>body</vh>
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
-<v t="leo.20200818170328.1"><vh>slide 1</vh></v>
+<v t="leo.20200818170328.1"><vh>slide 1</vh>
+<v t="leo.20210318121450.1"><vh>newHeadline</vh>
+<v t="leo.20210318121817.1"><vh>newHeadline</vh>
+<v t="leo.20210318122017.1"><vh>newHeadline</vh>
+<v t="leo.20210318122109.1"><vh>newHeadline</vh>
+<v t="leo.20210318122152.1"><vh>newHeadline</vh>
+<v t="leo.20210318122541.1"><vh>newHeadline</vh>
+<v t="leo.20210318122321.1"><vh>newHeadline</vh></v>
+</v>
+</v>
+</v>
+</v>
+</v>
+</v>
+</v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
@@ -208,13 +222,12 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
+    &lt;h1&gt;cd2021 ag18
+&lt;/h1&gt;&lt;h1&gt;扣球練習機
+&lt;/h1&gt;
+    &lt;p&gt;組長學號:40823135 &lt;/p&gt;
+
+    &lt;p&gt;  組員學號:40823121 &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -647,6 +660,52 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318121450.1">&lt;section&gt;
+    &lt;h1&gt;動機&lt;/h1&gt;
+    &lt;p&gt;我們這組兩個人都有在打排球，而每次想要練習殺球的時候都必須找另一個人才能練習，所以我們想設計一個東西是一個人就可以練習扣球的機器
+
+繪製出機器主體(骨架和球軌的部分)
+ &lt;/p&gt;
+   
+&lt;/section&gt;
+</t>
+<t tx="leo.20210318121817.1">&lt;section&gt;
+    &lt;h1&gt;轉臂支架
+&lt;/h1&gt;
+ &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823121/stage1-ag18/main/images/%E8%BD%89%E8%87%82%E6%94%AF%E6%9E%B6.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210318122017.1">&lt;section&gt;
+    &lt;h1&gt;轉臂
+&lt;/h1&gt;
+ &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823121/stage1-ag18/main/images/%E8%BD%89%E8%87%82.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210318122109.1">&lt;section&gt;
+    &lt;h1&gt;扣球機主體
+&lt;/h1&gt;
+ &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823121/stage1-ag18/main/images/%E6%89%A3%E7%90%83%E6%A9%9F%E4%B8%BB%E9%AB%94.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210318122152.1">&lt;section&gt;
+    &lt;h1&gt;活動板
+&lt;/h1&gt;
+ &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823121/stage1-ag18/main/images/%E6%B4%BB%E5%8B%95%E6%9E%B6.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318122321.1">
+&lt;section&gt;
+    &lt;h1&gt;結論&lt;/h1&gt;
+    &lt;p&gt;這次沒有成功夾住球我認為有兩個原因，一個是活動架留的開口大小不適當，第二個是活動架轉軸的部分出現問題，沒辦法按照我們原本想的方式作動，所以才造成球體直接落下的結果。
+ &lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318122541.1">&lt;section&gt;
+    &lt;h1&gt;CoppeliaSim測試
+&lt;/h1&gt;
+ &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/rRnF_fOaT9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
